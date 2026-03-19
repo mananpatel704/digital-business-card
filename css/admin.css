@@ -1,0 +1,34 @@
+.admin-nav{
+margin-bottom:20px;
+}
+
+.admin-nav a{
+margin-right:15px;
+font-weight:600;
+}
+
+.admin-table{
+width:100%;
+border-collapse:collapse;
+}
+
+.admin-table th{
+background:#2563eb;
+color:white;
+padding:12px;
+text-align:left;
+}
+
+.admin-table td{
+padding:12px;
+border-bottom:1px solid #e5e7eb;
+}
+
+.admin-table tr:hover{
+background:#f1f5f9;
+}
+
+.qr-small{
+width:90px;
+border-radius:4px;
+}
